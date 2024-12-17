@@ -5,13 +5,13 @@
 
 
 ## <a name="content"></a> สารบัญ
-1. [การติดตั้ง node red](#InNode)
+1. [การติดตั้ง node red](#InN)
 2. [การติดตั้งไลบรารี่](#library)
 3. [การ import ไฟล์ .json ลงไปยัง node red](#import)
   
 <br/>
 
-## <a name="InNode"></a> การติดตั้ง node red
+## <a name="InN"></a> การติดตั้ง node red
 1. การทำการติดตั้ง node red หรือ Node.js สามารถโหลดได้จากเว็บไซต์ https://nodejs.org/en/ 
 <p align="center">
 <img src=https://github.com/user-attachments/assets/a71f7548-11bb-4fe1-9d39-3693408edd54>
@@ -33,6 +33,7 @@
 7. เข้าใช้งาน Node-RED โดยใช้คำสั่ง Node-RED ใน Command promp เมื่อเปิดการทำงานเสร็จสิ้นจะขึ้นตัวเลข IP ให้คัดลอกไปวางใน Tab ค้นหาบน Google chrome เพื่อเข้าใช้งาน Node-RED 
 <p align="center">
 <img src=https://github.com/user-attachments/assets/9c8db505-c0b5-4c5b-88f0-81bb7fb5929b>
+
 
 <br/>
 
