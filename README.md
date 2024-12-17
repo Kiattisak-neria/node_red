@@ -5,8 +5,9 @@
 
 
 ## <a name="content"></a> สารบัญ
-1. [การติดตั้งไลบรารี่](#library)
-2. [การ import ไฟล์ .json ลงไปยัง node red](#import)
+1. [การติดตั้ง node red](#InNode)
+2. [การติดตั้งไลบรารี่](#library)
+3. [การ import ไฟล์ .json ลงไปยัง node red](#import)
 
    
 <br/>
