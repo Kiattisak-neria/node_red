@@ -5,14 +5,14 @@
 
 
 ## <a name="content"></a> สารบัญ
-1. [การติดตั้งnode-red](#INNODE)
+1. [การติดตั้ง node-red](#lnode)
 2. [การติดตั้งไลบรารี่](#library)
 3. [การ import ไฟล์ .json ลงไปยัง node red](#import)
   
 <br/>
 
-## <a name="INNODE"></a> การติดตั้งnode-red
-1. การทำการติดตั้ง node red หรือ Node.js สามารถโหลดได้จากเว็บไซต์ https://nodejs.org/en/ 
+## <a name="Inode"></a> การติดตั้ง node-red
+1. การทำการติดตั้ง node-red หรือ Node.js สามารถโหลดได้จากเว็บไซต์ https://nodejs.org/en/ 
 <p align="center">
 <img src=https://github.com/user-attachments/assets/a71f7548-11bb-4fe1-9d39-3693408edd54>
 
