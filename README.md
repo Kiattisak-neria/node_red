@@ -8,8 +8,7 @@
 1. [การติดตั้ง node red](#InNode)
 2. [การติดตั้งไลบรารี่](#library)
 3. [การ import ไฟล์ .json ลงไปยัง node red](#import)
-
-   
+  
 <br/>
 
 ## <a name="InNode"></a> การติดตั้ง node red
@@ -35,6 +34,7 @@
 <p align="center">
 <img src=https://github.com/user-attachments/assets/9c8db505-c0b5-4c5b-88f0-81bb7fb5929b>
 
+<br/>
 
 ## <a name="library"></a> การติดตั้งไลบรารี่
 การทำการ import ไฟล์ข้างต้นจำเป็นต้อดาวโหลดไลบรารี่ซึ่งสามารถดาวโหลดได้ด้วยการเลือกที่ เครื่องมายสามขีด > Manage pelette > Install > ทำการค้นหา > install
@@ -49,6 +49,7 @@
 5. node-red-contrib-ui-led
 6. node-red
 
+<br/>
 
 ## <a name="import"></a> การ import ไฟล์ .json ลงไปยัง node red
 เมื่อทำการมำให้ node red สามารถใช้งานได้ จึงสามารถทำการ import โดยการที่เลือกที่สามขีด > import > select a file to import > เลือกไฟล์ > improt
