@@ -8,6 +8,7 @@
 1. [การติดตั้ง node-red](#lnode)
 2. [การติดตั้งไลบรารี่](#library)
 3. [การ import ไฟล์ .json ลงไปยัง node red](#import)
+4. [คำอธิบายเพิ่มเติม](#คำอธิบาย)
   
 <br/>
 
@@ -62,6 +63,16 @@
 เมื่อทำการมำให้ node red สามารถใช้งานได้ จึงสามารถทำการ import โดยการที่เลือกที่สามขีด > import > select a file to import > เลือกไฟล์ > improt
 <p align="center">
 <img src=https://github.com/user-attachments/assets/26599967-a780-408d-9901-2f8f937aba0c>
+
+[กลับไปยังสารบัญ](#content)
+<br/>
+
+## <a name="คำอธิบาย"></a> คำอธิบายเพิ่มเติม
+1. เมื่อได้ทำการ import ไฟล์ใน media หรือบร็อคในการแสดงภาพนั้นอาจจะไม่มีภาพใดๆ จึงจำเป็นต้องทำการอัพโหลดโดยการ ดับเบิลคลิกที่ media > Files > Add new > ทำการตั้งชื่อ > Add new > Choose Files > ทำการเลือกภาพ เมื่อทำการเลือกภาพแล้วจะสามารถเลือกภาพเองด้วยลูกศรชี้ลง การเลือกจำเป็นต้องเลือกภาพที่มีชื่อเดียวกันกับบร็อค media
+<p align="center">
+<img src=https://github.com/user-attachments/assets/260df601-01a4-409e-9673-4b759ec347bb>
+
+2. จำเป็นต้องเปลี่ยนชื่อ Topic ของ mqtt in และ mqtt out เพราะชื่อทั้งหมดถูกใช้งานไปทั้งหมดแล้ว
 
 [กลับไปยังสารบัญ](#content)
 <br/>
