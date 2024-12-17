@@ -16,25 +16,30 @@
 <p align="center">
 <img src=https://github.com/user-attachments/assets/a71f7548-11bb-4fe1-9d39-3693408edd54>
 
+
 2. เมื่อทำการดาวโหลดเสร็จจึงทำการติดตั้ง
 3. ทำการเปิด Command promp เพื่อทำการติดตั้งเครื่องมือเพิ่มเติม
 4. ทำการเช็คเวอร์ชั่นของ Node.js โดยการใช้คำสั้ง node --version ใน Command promp
 <p align="center">
 <img src=https://github.com/user-attachments/assets/74e6a2cf-7bcd-4002-8988-01ce0041a206>
 
+
 5. ใช้คำสั้ง npm --version เพื่อตรวจสอบเวอร์ชันของ npm(node package manager คือเครื่องเมือที่ใช้ในการจัดเก็บ package ของ Node.js)
 <p align="center">
 <img src=https://github.com/user-attachments/assets/6a2a908a-9d2d-4cd5-9fe7-19d211cb19e1>
 
+
 6. ทำการติดตั้ง Node-RED ลงในคอมพิวเตอร์โดยใช้คำสั่ง npm install --g -–unsafe-perm Node-RED ใน Command promp
 <p align="center">
 <img src=https://github.com/user-attachments/assets/9e985a46-8fff-476d-b616-b14fcc84fd37>
+
 
 7. เข้าใช้งาน Node-RED โดยใช้คำสั่ง Node-RED ใน Command promp เมื่อเปิดการทำงานเสร็จสิ้นจะขึ้นตัวเลข IP ให้คัดลอกไปวางใน Tab ค้นหาบน Google chrome เพื่อเข้าใช้งาน Node-RED 
 <p align="center">
 <img src=https://github.com/user-attachments/assets/9c8db505-c0b5-4c5b-88f0-81bb7fb5929b>
 
 
+[กลับไปยังสารบัญ](#content)
 <br/>
 
 ## <a name="library"></a> การติดตั้งไลบรารี่
@@ -50,6 +55,7 @@
 5. node-red-contrib-ui-led
 6. node-red
 
+[กลับไปยังสารบัญ](#content)
 <br/>
 
 ## <a name="import"></a> การ import ไฟล์ .json ลงไปยัง node red
@@ -57,4 +63,5 @@
 <p align="center">
 <img src=https://github.com/user-attachments/assets/26599967-a780-408d-9901-2f8f937aba0c>
 
+[กลับไปยังสารบัญ](#content)
 <br/>
