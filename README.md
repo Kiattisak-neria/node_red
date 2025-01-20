@@ -30,7 +30,7 @@
 <img src=https://github.com/user-attachments/assets/6a2a908a-9d2d-4cd5-9fe7-19d211cb19e1>
 
 
-6. ทำการติดตั้ง Node-RED ลงในคอมพิวเตอร์โดยใช้คำสั่ง npm install --g -–unsafe-perm Node-RED ใน Command promp
+6. ทำการติดตั้ง Node-RED ลงในคอมพิวเตอร์โดยใช้คำสั่ง npm install -g -–unsafe-perm node-red ใน Command promp
 <p align="center">
 <img src=https://github.com/user-attachments/assets/9e985a46-8fff-476d-b616-b14fcc84fd37>
 
