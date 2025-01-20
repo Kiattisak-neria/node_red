@@ -35,7 +35,7 @@
 <img src=https://github.com/user-attachments/assets/9e985a46-8fff-476d-b616-b14fcc84fd37>
 
 
-7. เข้าใช้งาน Node-RED โดยใช้คำสั่ง Node-RED ใน Command promp เมื่อเปิดการทำงานเสร็จสิ้นจะขึ้นตัวเลข IP ให้คัดลอกไปวางใน Tab ค้นหาบน Google chrome เพื่อเข้าใช้งาน Node-RED 
+7. เข้าใช้งาน Node-RED โดยใช้คำสั่ง node-red ใน Command promp เมื่อเปิดการทำงานเสร็จสิ้นจะขึ้นตัวเลข IP ให้คัดลอกไปวางใน Tab ค้นหาบน Google chrome เพื่อเข้าใช้งาน Node-RED 
 <p align="center">
 <img src=https://github.com/user-attachments/assets/9c8db505-c0b5-4c5b-88f0-81bb7fb5929b>
 
